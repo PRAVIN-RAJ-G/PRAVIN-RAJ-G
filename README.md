@@ -42,7 +42,24 @@ A Java-based billing application for invoice generation and customer management.
 A web application that converts long URLs into short and shareable links.
 
 ---
+## 🏅 Certifications
 
+- 🏭 **NPTEL – Introduction to Industry 4.0 & IIoT**  
+  ⭐ Elite Certification • **Score: 85%**
+
+- 🤖 **NPTEL – Responsible & Safe AI Systems**  
+  ⭐ Elite Certification • **Score: 64%**
+
+- 🖥️ **NPTEL – Human Computer Interaction**  
+  ⭐ Elite Certification • **Score: 95%**
+
+- 📊 **Power BI Workshop**  
+  🎖️ Certificate of Participation
+
+- 📈 **Introduction to Microsoft Excel**  
+  🎖️ Certificate of Completion
+
+  
 ## 📚 Currently Focusing On
 
 - Java Development
