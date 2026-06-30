@@ -23,16 +23,49 @@ Passionate about building scalable applications and continuously improving throu
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb&theme=dark" />
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+---
+
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
+---
+
+### 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
