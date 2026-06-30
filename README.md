@@ -20,29 +20,15 @@
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+<p align="center">
 
-- Java
-- Python
-- C
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb&theme=dark" />
 
-**Frontend**
+<br><br>
 
-- HTML
-- CSS
-- JavaScript
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-**Databases**
-
-- MySQL
-- MongoDB
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-
+</p>
 ---
 
 ## 🚀 Featured Projects
