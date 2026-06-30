@@ -65,20 +65,39 @@ Passionate about building scalable applications and continuously improving throu
 ---
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 💊 Medication Reminder System
-A healthcare application that helps users manage medicine schedules through timely reminders.
 
-### 🏥 Intensive Care Monitoring System
-An IoT-based healthcare solution for monitoring patients' vital signs in real time.
+**Tech Stack:** Python • MongoDB
+
+A healthcare application that helps users manage medicine schedules with timely reminders and improves medication adherence.
+
+---
+
+### ❤️ Intensive Care Monitoring System using IoT & Cloud Integration
+
+**Tech Stack:** HTML • CSS • JavaScript • IoT
+
+A real-time patient monitoring system that tracks vital signs such as heart rate, blood pressure, oxygen level, temperature, and ECG using IoT devices.
+
+---
 
 ### 💳 Super Billing System
-A Java-based billing application for invoice generation and customer management.
+
+**Tech Stack:** Java
+
+A desktop billing application that simplifies invoice generation, customer management, and billing operations.
+
+---
 
 ### 🔗 URL Shortener Application
-A web application that converts long URLs into short and shareable links.
+
+**Tech Stack:** Python
+
+A web application that converts long URLs into short, shareable links for easier management and accessibility.
+
+---
 
 ---
 ## 🏅 Certifications
