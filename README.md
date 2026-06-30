@@ -153,7 +153,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN-RAJ-G
 <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pravin-raj-g/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
