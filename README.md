@@ -102,21 +102,15 @@ A web application that converts long URLs into short, shareable links for easier
 ---
 ## 🏅 Certifications
 
-- 🏭 **NPTEL – Introduction to Industry 4.0 & IIoT**  
-  ⭐ Elite Certification • **Score: 85%**
+| Certification | Organization | Achievement |
+|:--------------|:------------:|:-----------:|
+| 🏭 Introduction to Industry 4.0 & Industrial Internet of Things (IIoT) | NPTEL | ⭐ Elite • **85%** |
+| 🤖 Responsible & Safe AI Systems | NPTEL | ⭐ Elite • **64%** |
+| 🖥️ Human Computer Interaction | NPTEL | ⭐ Elite • **95%** |
+| 📊 Power BI Workshop | Workshop | 🎖️ Certificate |
+| 📈 Introduction to Microsoft Excel | Workshop | 🎖️ Certificate |
 
-- 🤖 **NPTEL – Responsible & Safe AI Systems**  
-  ⭐ Elite Certification • **Score: 64%**
-
-- 🖥️ **NPTEL – Human Computer Interaction**  
-  ⭐ Elite Certification • **Score: 95%**
-
-- 📊 **Power BI Workshop**  
-  🎖️ Certificate of Participation
-
-- 📈 **Introduction to Microsoft Excel**  
-  🎖️ Certificate of Completion
-
+---
   
 ## 📚 Currently Focusing On
 
