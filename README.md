@@ -10,8 +10,6 @@
 
 💻 Passionate about developing efficient and user-friendly applications
 
-🌱 Currently learning Full Stack Development
-
 🚀 Interested in Java, Web Technologies, and Software Development
 
 🎯 Aspiring Software Engineer eager to build impactful real-world solutions
