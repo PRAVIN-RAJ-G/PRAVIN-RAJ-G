@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pravin Raj G</h1>
+Hi 👋, I'm Pravin Raj G
 
-<h3 align="center">
 ☕ Java Developer • 🌐 Full Stack Web Development Enthusiast
-</h3>
 
-<p align="center">
-Building practical software solutions through Java, Web Technologies, and Continuous Learning.
-</p>
+Building practical software solutions through Java,
+Web Technologies, and Continuous Learning.
 
+──────────────────────────────────────
 ---
 
 
