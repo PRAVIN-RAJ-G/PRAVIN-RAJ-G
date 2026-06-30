@@ -10,7 +10,7 @@
 
 💻 Passionate about developing efficient and user-friendly applications
 
-🌱 Currently learning Data Structures & Algorithms and Full Stack Development
+🌱 Currently learning Full Stack Development
 
 🚀 Interested in Java, Web Technologies, and Software Development
 
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
----
+
 
 ## 🚀 Featured Projects
 
@@ -48,7 +48,6 @@ A web application that converts long URLs into short and shareable links.
 ## 📚 Currently Focusing On
 
 - Java Development
-- Data Structures & Algorithms
 - Full Stack Web Development
 - Building Real-World Projects
 
