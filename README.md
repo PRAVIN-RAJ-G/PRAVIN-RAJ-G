@@ -165,4 +165,24 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN-RAJ-G
 
 ---
 
+
+<p align="center">
+
+### ⭐ Favorite Quote
+
+> **"Success doesn't come from what you know. It comes from consistently applying what you know."**
+
+</p>
+
+---
+
+<p align="center">
+
+Thanks for visiting my profile! 😊
+
+⭐ If you like my projects, don't forget to explore my repositories.
+
+Happy Coding! 🚀
+
+</p>
 ⭐ **"Code • Learn • Build • Improve • Repeat"**
