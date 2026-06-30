@@ -8,22 +8,6 @@ Java Developer • Full Stack Web Development Enthusiast • Problem Solver
 Building practical software solutions with Java, Web Technologies, and Continuous Learning.
 </p>
 
-<p align="center">
-<a href="https://pravin-raj-g.github.io/pravinrajg.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pravinraj.ganes@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
 
 ## 👨‍💻 About Me
 
