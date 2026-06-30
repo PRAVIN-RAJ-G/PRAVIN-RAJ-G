@@ -111,15 +111,18 @@ A web application that converts long URLs into short, shareable links for easier
 | 📈 Introduction to Microsoft Excel | Workshop | 🎖️ Certificate |
 
 ---
-  ## 📊 GitHub Analytics
+ ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PRAVIN-RAJ-G&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=PRAVIN-RAJ-G&theme=github-dark&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=PRAVIN-RAJ-G&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAVIN-RAJ-G&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN-RAJ-G&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PRAVIN-RAJ-G&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
