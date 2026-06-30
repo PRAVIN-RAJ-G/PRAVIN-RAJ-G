@@ -21,13 +21,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 ---
 
