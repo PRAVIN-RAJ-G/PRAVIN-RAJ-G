@@ -85,7 +85,7 @@ A real-time patient monitoring system that tracks vital signs such as heart rate
 
 ### 💳 Super Billing System
 
-**Tech Stack:** Java
+**Tech Stack:** Java • MySQL
 
 A desktop billing application that simplifies invoice generation, customer management, and billing operations.
 
