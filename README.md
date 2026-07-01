@@ -111,25 +111,30 @@ A web application that converts long URLs into short, shareable links for easier
 | 📈 Introduction to Microsoft Excel | Workshop | 🎖️ Certificate |
 
 ---
+
+## 📊 GitHub Statistics
+
 <p align="center">
 
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=PRAVIN-RAJ-G&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=PRAVIN-RAJ-G&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="48%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=PRAVIN-RAJ-G&theme=github-dark&hide_border=true"/>
+  <img width="49%"
+       src="https://streak-stats.demolab.com?user=PRAVIN-RAJ-G&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAVIN-RAJ-G&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="40%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAVIN-RAJ-G&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img width="48%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN-RAJ-G&theme=github-compact&hide_border=true"/>
+  <img width="58%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN-RAJ-G&theme=github-dark&hide_border=true"/>
 
 </p>
+
+---
 
 ---
 ---
