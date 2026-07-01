@@ -15,7 +15,7 @@ Passionate about building scalable applications and continuously improving throu
 
 🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate about developing efficient and user-friendly applications
+💻 Passionate about developing efficient and user-friendly software solutions
 
 🚀 Interested in Java, Web Technologies, and Software Development
 
