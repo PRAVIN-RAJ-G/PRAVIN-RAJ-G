@@ -114,16 +114,6 @@ A web application that converts long URLs into short, shareable links for easier
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PRAVIN-RAJ-G&theme=tokyonight&show_icons=true"/>
-
-</p>
-
----
----
 
 ---
 
