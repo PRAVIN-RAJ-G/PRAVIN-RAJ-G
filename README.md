@@ -118,7 +118,7 @@ A web application that converts long URLs into short, shareable links for easier
 </p>
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN RAJ G&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN-RAJ-G&theme=tokyo-night"/>
 
 </p>
 ---
