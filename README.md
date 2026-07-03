@@ -111,7 +111,9 @@ A web application that converts long URLs into short, shareable links for easier
 | 📈 Introduction to Microsoft Excel | Workshop | 🎖️ Certificate |
 
 
+##    Github Statistics 
 
+https://streak-stats.demolab.com/?user=PRAVIN-RAJ-G
 
 ---
 
