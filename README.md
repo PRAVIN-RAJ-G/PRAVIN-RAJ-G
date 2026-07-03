@@ -154,7 +154,7 @@ A web application that converts long URLs into short, shareable links for easier
 
 ### ⭐ Favorite Quote
 
-> **"Success doesn't come from what you know. It comes from consistently applying what you know."**
+> **"If you see it in your mind, you are going to hold it in your hand."**
 
 </p>
 
