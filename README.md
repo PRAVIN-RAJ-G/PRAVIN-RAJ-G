@@ -116,7 +116,11 @@ A web application that converts long URLs into short, shareable links for easier
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PRAVIN-RAJ-G&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRAVIN RAJ G&theme=tokyo-night"/>
+
+</p>
 ---
 ---
 
