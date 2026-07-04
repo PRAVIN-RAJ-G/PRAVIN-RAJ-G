@@ -114,7 +114,7 @@ A web application that converts long URLs into short, shareable links for easier
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PRAVIN-RAJ-G&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PRAVIN-RAJ-G &theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
 
