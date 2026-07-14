@@ -175,4 +175,5 @@ Thanks for visiting my profile! 😊
 Happy Coding! 🚀
 
 </p>
-⭐ **"Code • Learn • Build • Improve • Repeat"**
+
+⭐ **"Code • Learn • Build • Improve • Repeat-  Make your thoughts Effective"**
