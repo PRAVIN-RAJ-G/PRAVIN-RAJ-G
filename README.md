@@ -11,8 +11,6 @@ Passionate about building scalable applications and continuously improving throu
 ---
 
 
-
-
 ## 👨‍💻 About Me
 
 🎓 Final Year Computer Science Engineering Student
